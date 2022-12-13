@@ -1,9 +1,11 @@
 C𝚞𝚜𝚝𝚘𝚖𝚎𝚛-S𝚎𝚐𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗-P𝚢𝚝𝚑𝚘𝚗
 
 Dataset
-This data set is the customer data of a online super market company Ulabox. The data set is available in this link https://github.com/ulabox/datasets
+
+This data set is the customer data of a online super market company Ulabox.
 
 Customer segmentation
+
 In customer segmentation we categorize similar customers together in the same cluster and analyse them. It can reveal information like:
 
 who are the most valuable customers of the company
